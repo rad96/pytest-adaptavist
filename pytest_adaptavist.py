@@ -11,7 +11,7 @@ import sys
 import logging
 from datetime import datetime
 
-from tests.lib.adaptavist import Adaptavist
+from adaptavist import Adaptavist
 
 import pytest
 
